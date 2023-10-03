@@ -1,5 +1,9 @@
 # Note.md
 
+### Deployed site
+
+https://note-md.netlify.app
+
 ### Description
 
 A note-taking website designed for users to create, organize, and store notes for personal use.
